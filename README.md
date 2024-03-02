@@ -1,10 +1,8 @@
 # Cliente para gerenciamento e batalhas Pokemon
     Visão Geral do Projeto: 
     
-    Este projeto objetiva alcansar uma compreensão maior sobre organização de modulos Node.js, 
-    assim como seus mecânismos para tratamentos de exceções, testes unitários e de integração, uso de recursos 
-    sincronos e assincronos, dentre outras especifidades da ferramenta. Além disso, também fornece uma interface
-    REST para uso em clientes diverosos de integração (como Discord) para entretenimento de amigos e colegas.
+     Cliente construído com o framework Next.js para oferecer interface ágil 
+     para criação e geranciamento de pokemons 
     
 ## Instruções de Utilização: 
       Clone o repositório do projeto
