@@ -1,4 +1,6 @@
 # Cliente para gerenciamento e batalhas Pokemon
+![image](https://github.com/silvasilas99/pokemonbattle-client/assets/49960425/39cc0bec-3f9a-40a5-b486-8857b10b1090)
+
     Visão Geral do Projeto: 
     
      Cliente construído com o framework Next.js para oferecer interface ágil 
